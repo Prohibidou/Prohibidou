@@ -2,7 +2,7 @@
 
 
 ### Software Engineer 🛠️ | Full-Stack Dev & AI Architect
-**Building AI systems and viral social media automation from Argentina. 🧉 #building**
+**Building AI systems and viral social media automation from Argentina 🧉 #AlwaysBuilding**
 
 
 ---
