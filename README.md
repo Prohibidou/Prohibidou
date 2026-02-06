@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maximiliano Vera (Prohibidou)
 
-### Industrial Engineer 🛠️ | Full-Stack Dev & AI Architect
-**Building anti-fragile systems and viral automation from Rawson, Argentina. 🧉 #Solopreneur**
+### Software Engineer 🛠️ | Full-Stack Dev & AI Architect
+**Building AI systems and viral automation from Argentina. 🧉 #building**
 
 ---
 
