@@ -11,7 +11,6 @@
 ## 🚀 Featured Projects (Pinned)
 
 - **[long videos to shorts with AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - get viral shorts from long videos in 10 minutes, with AI and automatization
-- 
 - **[PsychologyAIx](https://github.com/Prohibidou/PsychologyAIx)** - Artificial Intelligence applied to psychology with advanced analysis.
 - **[TamagotchiAI](https://github.com/Prohibidou/TamagotchiAI)** - An evolved virtual companion with AI and logic in Mathematica.
 - **[learn-english](https://github.com/Prohibidou/learn-english)** - Interactive platform for mastering the English language.
