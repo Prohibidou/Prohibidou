@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects (Pinned)
 
-- **[long videos to shorts with AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - get viral shorts from long videos in 10 minutes, with AI and automatization
+- **[long videos to shorts with AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - get viral Shorts from long Videos in just 10 minutes, with AI and automatization
 - **[PsychologyAIx](https://github.com/Prohibidou/PsychologyAIx)** - Artificial Intelligence applied to psychology with advanced analysis.
 - **[TamagotchiAI](https://github.com/Prohibidou/TamagotchiAI)** - An evolved virtual companion with AI and logic in Mathematica.
 - **[learn-english](https://github.com/Prohibidou/learn-english)** - Interactive platform for mastering the English language.
@@ -20,31 +20,24 @@
 ---
 
 
-## 🛠️ Project Categories (33 Projects)
+## 🛠️ Project Categories
 
 
 ### 🤖 AI & Automation
-- **[viral-tweets-with-AI](https://github.com/Prohibidou/viral-tweets-with-AI)** - Agentic AI system for viral automation on X/Twitter.
-- **[long-videos-to-shorts-with-AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - AI pipeline to transform long-form content into viral micro-content.
-- **[automated-posts-instagram](https://github.com/Prohibidou/automated-posts-instagram)** - Curation, translation, and automated posting bot for Instagram.
-- **[BrainRot-Videos-Maker](https://github.com/Prohibidou/BrainRot-Videos-Maker)** - Dynamic content generator optimized for retention algorithms.
+- **[long-videos-to-shorts-with-AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - AI pipeline to transform long-form content into viral micro-content in Youtube.
+- **[automated-posts-instagram](https://github.com/Prohibidou/automated-posts-instagram)** - automated posts donwloader and translator.
 - **[NoMouse](https://github.com/Prohibidou/NoMouse)** - PC control interface via computer vision/mouse-less commands.
 
 
 ### 🔧 Utilities & High-Impact Apps
-- **[MySpotify](https://github.com/Prohibidou/MySpotify)** - Multi-platform playlist management and download tool.
+- **[MySpotify](https://github.com/Prohibidou/MySpotify)** - download playlists from Spotify, and listen to songs locally, for free.
 - **[X_cleaner](https://github.com/Prohibidou/X_cleaner)** - Privacy tool for bulk cleaning social media interactions.
-- **[RepoToMe](https://github.com/Prohibidou/RepoToMe)** - Utility to package codebases for LLM analysis.
 - **[TattooedMind](https://github.com/Prohibidou/TattooedMind)** - Cognitive reinforcement and memorization app.
-- **[DataLeak](https://github.com/Prohibidou/DataLeak)** - Security suite for monitoring information leaks.
-
 
 ### 📚 Education, health & Algorithms
 - **[healthyRPG](https://github.com/Prohibidou/healthyRPG)** - Physical health gamification linked to internal progress.
-- **[neetcodes](https://github.com/Prohibidou/neetcodes)** - Repository of algorithms and design patterns (LeetCode) with deep explanations.
 - **[Biblia-Catolica](https://github.com/Prohibidou/Biblia-Catolica)** - Theological consultation mobile/web app.
-- **[Sistema_Comedor](https://github.com/Prohibidou/Sistema_Comedor)** - Logistics management system for institutional dining halls.
-- **[Cinema-s-movie-and-seats-managment](https://github.com/Prohibidou/Cinema-s-movie-and-seats-managment-Gestion-de-peliculas-y-asientos-de-un-cine.-ADA-95)** - Robust legacy system developed in Ada 95.
+- **[Cinema-s-movie-and-seats-managment](https://github.com/Prohibidou/Cinema-s-movie-and-seats-managment-Gestion-de-peliculas-y-asientos-de-un-cine.-ADA-95)** - Robust legacy system developed in Ada 95. legacy code
 
 
 
@@ -57,7 +50,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI & Automation
