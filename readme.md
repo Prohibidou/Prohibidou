@@ -35,7 +35,6 @@
 - **[TattooedMind](https://github.com/Prohibidou/TattooedMind)** - Cognitive reinforcement and memorization app.
 
 ### 📚 Education, health & Algorithms
-- **[healthyRPG](https://github.com/Prohibidou/healthyRPG)** - Physical health gamification linked to internal progress.
 - **[Biblia-Catolica](https://github.com/Prohibidou/Biblia-Catolica)** - Theological consultation mobile/web app.
 - **[Cinema-s-movie-and-seats-managment](https://github.com/Prohibidou/Cinema-s-movie-and-seats-managment-Gestion-de-peliculas-y-asientos-de-un-cine.-ADA-95)** - Robust legacy system developed in Ada 95. legacy code
 
