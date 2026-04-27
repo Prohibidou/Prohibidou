@@ -24,7 +24,7 @@
 
 
 ### 🤖 AI & Automation
-- **[long-videos-to-shorts-with-AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - AI pipeline to transform long-form content into viral micro-content in Youtube.
+
 - **[automated-posts-instagram](https://github.com/Prohibidou/automated-posts-instagram)** - automated posts donwloader and translator.
 - **[NoMouse](https://github.com/Prohibidou/NoMouse)** - PC control interface via computer vision/mouse-less commands.
 
