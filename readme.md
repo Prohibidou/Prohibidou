@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maximiliano Uriel Vera (Prohibidou)
+# 👋 Hi, I'm Max Uriel Vera Leal (Prohibidou)
 
 
 ### Software Engineer 🛠️ | Full-Stack Dev & AI Architect
