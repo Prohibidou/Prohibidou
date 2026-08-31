@@ -35,6 +35,10 @@
 - **[X_cleaner](https://github.com/Prohibidou/X_cleaner)** - Privacy tool for bulk cleaning social media interactions.
 - **[TattooedMind](https://github.com/Prohibidou/TattooedMind)** - Cognitive reinforcement and memorization app.
 
+### 🎮 Games
+
+- **[Piche (A GameJam game)](https://github.com/Prohibidou/Piche-La-Gran-Fuga)** - A 3D game that raises awareness about caring for the environment.
+
 ### 📚 Education, health & Algorithms
 - **[Biblia-Catolica](https://github.com/Prohibidou/Biblia-Catolica)** - Theological consultation mobile/web app.
 - **[Cinema-s-movie-and-seats-managment](https://github.com/Prohibidou/Cinema-s-movie-and-seats-managment-Gestion-de-peliculas-y-asientos-de-un-cine.-ADA-95)** - Robust legacy system developed in Ada 95. legacy code
