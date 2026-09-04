@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects (Pinned)
 
-- **[Videos to shorts with AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - get viral Shorts from long Videos in just 10 minutes, with AI and automatization
+- **[Videos to shorts with AI](https://github.com/Prohibidou/long-videos-to-shorts-with-AI)** - get viral Youtube Shorts from long Videos in just 10 minutes, with AI and automatization
 - **[PsychologyAIx](https://github.com/Prohibidou/PsychologyAIx)** - get the political ideology of an Twitter (X) account
 - **[TamagotchiAI](https://github.com/Prohibidou/TamagotchiAI)** - your AI friend that lives inside your computer !
 - **[learn-english](https://github.com/Prohibidou/learn-english)** - Interactive platform for mastering the English language in an immersive universe with AI
